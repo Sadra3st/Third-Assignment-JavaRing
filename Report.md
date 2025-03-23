@@ -2,7 +2,7 @@
 
 ## Description
 I made this game to practice advanced programming lessons.
-Java-Ring RPG is a text-based role-playing game (RPG) inspired by Souls-like games. The game features turn-based combat where players can choose from different character classes (Knight, Wizard, Assassin) and battle against various monsters (Goblin, Skeleton, Dragon). The game emphasizes Object-Oriented Programming (OOP) principles such as inheritance, polymorphism, and interfaces. Players can engage in combat, use unique abilities, and progress through different locations.
+Java-Ring RPG is a text-based role-playing game (RPG) inspired by Souls-like games. The game features turn-based combat where players can choose from different character classes (Knight, Wizard, Assassin) and battle against various monsters (Goblin, Skeleton, Dragon). The game emphasizes Object-Oriented Programming (OOP) principles. Players can engage in combat, use unique abilities, and progress through different locations.
 
 ## Getting Started
 
